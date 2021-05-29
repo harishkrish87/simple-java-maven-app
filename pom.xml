@@ -46,9 +46,9 @@
             <phase>generate-sources</phase>
             <goals>
               <goal>instrument</goal>
-            </goals>
+            </goals> 
           </execution>
-        </executions>
+        </executions> 
       </plugin>
     </plugins>
   </build>
